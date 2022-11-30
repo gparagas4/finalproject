@@ -17,13 +17,13 @@ function setup() {
   div = createDiv("VOTE NOW")
   div.class('neonText')
   div.style("font-size", "100px")
-  div.position(500, 10)
+  div.position(400, 10)
 
   
    div = createDiv("FOR THE FUTURE")
    div.class('neonText')
    div.style("font-size", "100px")
-   div.position(400, 800)
+   div.position(370, 800)
 
 
      div = createDiv("TIME'S TICKING")
