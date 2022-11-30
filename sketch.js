@@ -11,7 +11,7 @@ img = loadImage("Voting Ballot.jpg")
 }
 
 function setup() {
-  createCanvas(1400, 700);
+  createCanvas(1400, 1000);
 
  
   div = createDiv("VOTE NOW")
